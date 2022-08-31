@@ -26,13 +26,14 @@ with st.container():
     * * *
     """
 
-with st.container():
-    
-    st.title(":scroll:Jean Lucas Almeida Mota")
-    """        
-    :inbox_tray: Download da versão em pdf aqui
+with st.container():        
+    st.title(":scroll:Jean Lucas Almeida Mota")        
 
-    :calendar: 12/06/1997
+
+    pdf_download = ":inbox_tray: Download da versão em pdf <a href='https://drive.google.com/file/d/15h2VtB7J8FaxceLiHX4x3pFUCY3K1zth/view?usp=sharing'>aqui</a>"
+    st.markdown(pdf_download,unsafe_allow_html=True)
+    """
+    :date: 12/06/1997
 
     :phone: (31) 99468-8276
     """
