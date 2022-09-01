@@ -2,6 +2,7 @@
 
 import streamlit as st
 import time 
+from PIL import Image
 
 #CONFIGURACOES BASICAS DA PAGINA
 st.set_page_config(
@@ -14,12 +15,19 @@ st.set_page_config(
 with open("style.css") as f:
     st.markdown(f"<style>{f.read()}</style>",unsafe_allow_html= True)
 
+#MENU LATERAL
 with st.sidebar:
+    """    
+    """    
+    image = Image.open('./images/perfil.png')
 
+    st.image(image,  width=200)
+    
     html = "<h1>Meu Perfil</h1>"
     st.markdown(html,unsafe_allow_html=True)
     
 
+#CURRICULUM VITAE
 with st.container():        
     st.title("Curriculum Vitae")
     """    

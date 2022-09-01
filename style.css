@@ -40,10 +40,12 @@ a:hover {
     color: hotpink;
   }
 
+/*Background da pagina inteira*/
 .main.css-k1vhr4.egzxvld3{
     background: #f4f4f4;
 }
 
+/*Conteiner princial do curriculo*/
 .block-container.css-12oz5g7.egzxvld2 {
     padding: 3em 3em 1em 3em;
     background: #ffffff;
@@ -52,17 +54,31 @@ a:hover {
     position: relative;
 }
 
+/*Imagem do perfil no menu lateral*/
+.css-1v0mbdj.etr89bj1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 
+/*Texto do menu lateral*/
+.css-1k9lj19.e1tzin5v0{
+    text-align: center;
+}
+
+/*texto do conteiner princial*/
 .block-container.css-12oz5g7.egzxvld2 {
     color: #333333;    
     opacity: 0.87;
 
 }
 
+/*comentario no footer padrao*/
 .css-1q1n0ol.egzxvld0 {
     visibility: hidden;
 }
 
+/*menu lateral padrao*/
 .css-14xtw13.e8zbici0 {
     visibility: hidden;
 }
