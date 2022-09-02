@@ -23,8 +23,13 @@ with st.sidebar:
 
     st.image(image,  width=200)
     
-    html = "<h1>Meu Perfil</h1>"
-    st.markdown(html,unsafe_allow_html=True)
+    """
+    ## Jean Mota
+    Stay Hungry Stay Foolish
+    """
+
+    #html = "<h1>Meu Perfil</h1>"
+    #st.markdown(html,unsafe_allow_html=True)
     
 
 #CURRICULUM VITAE

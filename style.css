@@ -15,7 +15,7 @@ h2 {
     font-weight: 600;
     letter-spacing: 0.1em;
     line-height: 1.65;
-    margin: 0 0 1em 0;
+    margin: 0 0 0 0;
     text-transform: uppercase;
     
 }
@@ -58,12 +58,22 @@ a:hover {
 .css-1v0mbdj.etr89bj1{
     display: block;
     margin-left: auto;
-    margin-right: auto;
+    margin-right: auto;    
 }
 
 /*Texto do menu lateral*/
-.css-1k9lj19.e1tzin5v0{
+.css-1ope8sv.e1fqkh3o4 h2{
+    font-size: 1.1em;
+    font-weight: 900;
     text-align: center;
+    line-height: 1.65;        
+    margin: 0%;
+    padding-bottom: 2%;
+}
+
+.css-1ope8sv.e1fqkh3o4 p{    
+    text-align: center;
+    
 }
 
 /*texto do conteiner princial*/
