@@ -10,7 +10,7 @@ h1, h2, h3, h4, h5, h6{
 
 h2 {
     color: #3c3b3b;
-    font-size: 1.3em;
+    font-size:0.44cm;
     font-family: "Raleway", Helvetica, sans-serif;
     font-weight: 600;
     letter-spacing: 0.1em;
@@ -59,6 +59,10 @@ a:hover {
     display: block;
     margin-left: auto;
     margin-right: auto;    
+}
+
+.css-1ope8sv.e1fqkh3o4 {
+    background: #f4f4f4;
 }
 
 /*Texto do menu lateral*/
