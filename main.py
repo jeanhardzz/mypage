@@ -26,6 +26,9 @@ with st.sidebar:
     """
     ## Jean Mota
     Stay Hungry Stay Foolish
+
+    [![Github](https://img.icons8.com/ios-glyphs/20/000000/github.png)](https://github.com/jeanhardzz) [![Linkedin](https://img.icons8.com/ios-glyphs/20/000000/linkedin-2--v1.png)](https://www.linkedin.com/in/jeanlkmota/) [![Email](https://img.icons8.com/ios-filled/20/000000/gmail.png)](mailto:jeanlkmota@gmail.com) [![Instagram](https://img.icons8.com/ios-glyphs/20/000000/instagram-new.png)](https://www.instagram.com/jean.lk/) [![Codeforces](https://img.icons8.com/external-tal-revivo-bold-tal-revivo/20/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-bold-tal-revivo.png)](https://codeforces.com/profile/jeanhardzz) [![Twitter](https://img.icons8.com/ios-glyphs/20/000000/twitter--v1.png)](https://twitter.com/Jean_lucks)                        
+
     """
 
     #html = "<h1>Meu Perfil</h1>"
@@ -47,6 +50,7 @@ with st.container():
     * ![Data Nascimento](https://img.icons8.com/ios-filled/18/000000/birthday.png) 12/06/1997
     * ![Whatsapp](https://img.icons8.com/material-outlined/20/000000/whatsapp--v1.png) (31) 99468-8276
     * ![Linkedin](https://img.icons8.com/ios-glyphs/20/000000/linkedin-2--v1.png) [linkedin.com/in/jeanlkmota](https://www.linkedin.com/in/jeanlkmota/)
+    * ![Github](https://img.icons8.com/ios-glyphs/20/000000/github.png) [github.com/jeanhardzz](https://github.com/jeanhardzz)                   
     * ![Email](https://img.icons8.com/ios-filled/20/000000/gmail.png) [jeanlkmota@gmail.com](mailto:jeanlkmota@gmail.com)               
     * ![Instagram](https://img.icons8.com/ios-glyphs/20/000000/instagram-new.png) [instagram.com/jean.lk/](https://www.instagram.com/jean.lk/)               
     * ![Codeforces](https://img.icons8.com/external-tal-revivo-bold-tal-revivo/20/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-bold-tal-revivo.png) [codeforces.com/profile/jeanhardzz](https://codeforces.com/profile/jeanhardzz)              

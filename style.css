@@ -20,7 +20,7 @@ h2 {
     
 }
 
-.css-1offfwp a {   
+.element-container.css-8v4mp2.e1tzin5v3 a {   
     color: #333333; 
     transition: color 0.2s ease, border-bottom-color 0.2s ease;
     transition-property: color, border-bottom-color;
@@ -36,7 +36,7 @@ h2 {
   
 }
 
-a:hover {
+.element-container.css-8v4mp2.e1tzin5v3 a:hover {
     color: hotpink;
   }
 
@@ -65,7 +65,7 @@ a:hover {
     background: #f4f4f4;
 }
 
-/*Texto do menu lateral*/
+/*Titulo do menu lateral*/
 .css-1ope8sv.e1fqkh3o4 h2{
     font-size: 1.1em;
     font-weight: 900;
@@ -75,8 +75,23 @@ a:hover {
     padding-bottom: 2%;
 }
 
+/*Texto do menu lateral*/
 .css-1ope8sv.e1fqkh3o4 p{    
     text-align: center;
+    font-size: 0.8em;
+    opacity: 0.6;
+    font-family: "Raleway", Helvetica, sans-serif;
+    font-weight: 400;
+    letter-spacing: 0.25em;
+    line-height: 2.5;
+    margin: -1em 1em 0;    
+    padding-bottom: 0.1cm;
+    
+}
+
+/*Icones do meu lateral*/
+.css-1ope8sv.e1fqkh3o4 img{    
+    border-bottom: none;
     
 }
 
