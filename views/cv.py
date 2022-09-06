@@ -96,6 +96,15 @@ def cv():
                 <span class="dot grey"></span>
             </p>
             <div style="clear: both;"></div>
+            <p class="alignleft">LaTeX / Markdown</p>
+            <p class="alignright">
+                <span class="dot black"></span>
+                <span class="dot black"></span>
+                <span class="dot black"></span>
+                <span class="dot black"></span>
+                <span class="dot black"></span>
+            </p>
+            <div style="clear: both;"></div>
         </div>
         <div style="clear: both;"></div>   
 
@@ -117,7 +126,7 @@ def cv():
       
         * * *
 
-        ## ![pdf](https://img.icons8.com/ios/25/000000/new-job.png) Profissional
+        ## ![pdf](https://img.icons8.com/ios/25/000000/new-job.png) Certificados
 
         Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical.
         
