@@ -150,6 +150,5 @@ h2 {
 
 /*header padrao*/
 .css-18ni7ap {    
-    height: 0rem;
-    background: rgb(228, 39, 39);
+    visibility: hidden;
 }
