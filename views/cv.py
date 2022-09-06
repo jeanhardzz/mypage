@@ -41,16 +41,7 @@ def cv():
                 <span class="dot black"></span>
                 <span class="dot grey"></span> 
             </p>
-            <div style="clear: both;"></div>
-            <p class="alignleft">Álgebra</p>
-            <p class="alignright">
-                <span class="dot black"></span>
-                <span class="dot black"></span>
-                <span class="dot black"></span>
-                <span class="dot black"></span>
-                <span class="dot grey"></span>
-            </p>
-            <div style="clear: both;"></div>
+            <div style="clear: both;"></div>            
             <p class="alignleft">C</p>
             <p class="alignright">
                 <span class="dot black"></span>
@@ -69,12 +60,21 @@ def cv():
                 <span class="dot black"></span>
             </p>
             <div style="clear: both;"></div>
-            <p class="alignleft">Modelagem Matemática</p>
+            <p class="alignleft">Álgebra</p>
             <p class="alignright">
                 <span class="dot black"></span>
                 <span class="dot black"></span>
                 <span class="dot black"></span>
                 <span class="dot black"></span>
+                <span class="dot black"></span>
+            </p>
+            <div style="clear: both;"></div>
+            <p class="alignleft">Modelagem Matemática</p>
+            <p class="alignright">
+                <span class="dot black"></span>
+                <span class="dot black"></span>
+                <span class="dot black"></span>
+                <span class="dot grey"></span>
                 <span class="dot grey"></span>
             </p>
             <div style="clear: both;"></div>
@@ -86,13 +86,13 @@ def cv():
                 <span class="dot black"></span>
                 <span class="dot grey"></span>
             </p>
-            <div style="clear: both;"></div>
+            <div style="clear: both;"></div>            
             <p class="alignleft">HTML / CSS</p>
             <p class="alignright">
                 <span class="dot black"></span>
                 <span class="dot black"></span>
                 <span class="dot black"></span>
-                <span class="dot black"></span>
+                <span class="dot grey"></span>
                 <span class="dot grey"></span>
             </p>
             <div style="clear: both;"></div>
