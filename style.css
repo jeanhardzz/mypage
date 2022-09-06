@@ -103,7 +103,40 @@ h2 {
 
 }
 
+/*Habilidades*/
+.black {
+    background-color: #3c3b3b;
+}
 
+.grey {
+    background-color: #bbb;
+}
+
+.dot {
+    height: 25px;
+    width: 25px;    
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+}
+
+.alignleft {
+	float: left;
+}
+.alignright {
+	float: right;
+}
+
+.skills p{
+    color: #3c3b3b;
+    font-size: 13px;
+    font-family: "Raleway", Helvetica, sans-serif;    
+    letter-spacing: 0.08em;
+    line-height: 1.65;
+    margin: 0 0 0 0;
+    padding: 10px;
+    text-transform: uppercase;
+}
 
 /*comentario no footer padrao*/
 .css-1q1n0ol.egzxvld0 {
